@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 5bed1e3f4afbf9247a0ab169171cc0ef
+  - enabled: 1
+    path: Assets/Scenes/zukan hiden.unity
+    guid: edd201e1df5d18845ab1f94729091fe6
+  - enabled: 1
+    path: Assets/Scenes/zukan2.unity
+    guid: 87000b75f3ca11f4aa14dd55f3364537
+  - enabled: 1
+    path: Assets/Scenes/zukan.unity
+    guid: 58d890494491a0c41973f543b4e76e76
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 51a450dc516d7f641b637fd8146b6eed
+  m_configObjects: {}
